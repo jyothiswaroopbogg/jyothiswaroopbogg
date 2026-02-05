@@ -9,7 +9,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=white)](https://www.jyothiswaroopboggavarapu.com/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bjyothiswaroop7@gmail.com)
 
-![Profile Views](https://visitcount.itsvg.in/api?id=jyothiswaroopbogg&icon=2&color=6)
+![Profile Views](https://komarev.com/ghpvc/?username=jyothiswaroopbogg&color=blueviolet&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -146,9 +146,6 @@ const jyothiswaroop = {
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jyothiswaroopbogg&theme=tokyonight" width="400"/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jyothiswaroopbogg&theme=tokyonight&utcOffset=8" width="400"/>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jyothiswaroopbogg&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jyothiswaroopbogg&theme=tokyonight)
-
 </div>
 
 ---
@@ -169,7 +166,7 @@ gantt
 
 ---
 -->
-## 💡 Core Competencies
+<!--## 💡 Core Competencies
 
 <div align="center">
 ```diff
@@ -183,13 +180,13 @@ gantt
 + Team Leadership & Mentoring
 ```
 
-</div>
+</div> -->
 
 ---
 
 ## 📫 Let's Connect!
 
-<div align="center">
+<div>
 
 ### 🤝 I'm always open to:
 - 💼 Collaborating on innovative Salesforce projects
@@ -207,7 +204,7 @@ gantt
 
 ---
 
-<div align="center">
+<div>
 
 ### ⚡ Fun Fact
 *"I believe in writing clean code that solves real-world problems and creates lasting impact."*
