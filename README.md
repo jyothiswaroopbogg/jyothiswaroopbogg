@@ -27,7 +27,7 @@ const jyothiswaroop = {
         bachelors: "Computer Science and Engineering @ SCSVMV University"
     },
     certifications: "8x Salesforce Certified",
-    currentFocus: ["Salesforce Omnistudio Development", "Data Loads", "System Integration", ""],
+    currentFocus: ["Salesforce Omnistudio Development", "Data Loads", "System Integration"],
     funFact: "I turn coffee into code ☕️ → 💻"
 };
 ```
