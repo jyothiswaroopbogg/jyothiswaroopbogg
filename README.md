@@ -178,9 +178,10 @@ gantt
 + Team Leadership & Mentoring
 ```
 
-</div> -->
+</div> 
 
 ---
+-->
 
 ## 📫 Let's Connect!
 
