@@ -140,10 +140,10 @@ const jyothiswaroop = {
 <div align="center">
   
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jyothiswaroopbogg&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)
-
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jyothiswaroopbogg&theme=tokyonight" width="400"/>
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jyothiswaroopbogg&theme=tokyonight)
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jyothiswaroopbogg&theme=tokyonight" width="400"/>
+
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jyothiswaroopbogg&theme=tokyonight&utcOffset=8" width="400"/>
 -->
 </div>
