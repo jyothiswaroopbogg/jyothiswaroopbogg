@@ -130,7 +130,9 @@ const jyothiswaroop = {
 </table>
 
 </div>
+
 ---
+
 
 ## 🛠️ Tech Arsenal
 
