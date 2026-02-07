@@ -69,6 +69,23 @@ const jyothiswaroop = {
 </div> -->
 
 ---
+## 🏆 Salesforce Certifications
+
+<div align="center">
+
+### 8x Certified Salesforce Professional
+
+![Administrator](https://img.shields.io/badge/-Administrator-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Platform Developer I](https://img.shields.io/badge/-Platform%20Developer%20I-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Sales Cloud Consultant](https://img.shields.io/badge/-Sales%20Cloud%20Consultant-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Service Cloud Consultant](https://img.shields.io/badge/-Service%20Cloud%20Consultant-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![OmniStudio Consultant](https://img.shields.io/badge/-OmniStudio%20Consultant-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![OmniStudio Developer](https://img.shields.io/badge/-OmniStudio%20Developer-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![AI Associate](https://img.shields.io/badge/-AI%20Associate-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Associates Specialist](https://img.shields.io/badge/-Associates%20Specialist-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+
+</div>
+---
 
 ## 🛠️ Tech Arsenal
 
