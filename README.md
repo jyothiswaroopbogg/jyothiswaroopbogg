@@ -10,11 +10,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bjyothiswaroop7@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jyothiswaroopbogg&color=blueviolet&style=flat-square&label=Profile+Views)
-![Profile Views](https://img.shields.io/badge/Profile%20Views-1234-blueviolet?style=flat-square)
-![Profile Views](https://img.shields.io/badge/Profile_Views-1234-blueviolet?style=flat-square)
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=jyothiswaroopbogg&left_color=blueviolet&right_color=blueviolet&left_text=Profile%20Views)
-![Profile Views](https://img.shields.io/badge/dynamic/json?url=jyothiswaroopbogg&label=Profile%20Views&query=$.count&color=blueviolet&style=flat-square)
-![Profile Views](https://hits.sh/github.com/jyothiswaroopbogg.svg?style=flat-square&label=Profile%20Views&color=blueviolet)
 </div>
 
 ---
