@@ -57,6 +57,46 @@ const jyothiswaroop = {
 </tr>
 </table>
 
+## 🏆 Salesforce Certifications
+
+<div align="center">
+
+### 8x Certified Salesforce Professional
+
+<br/>
+```yaml
+Developer Certifications:
+  ✓ Platform Developer I
+  ✓ Platform Developer II  
+  ✓ JavaScript Developer I
+  ✓ OmniStudio Developer
+
+Administrator Certifications:
+  ✓ Administrator
+  ✓ Platform App Builder
+
+Foundation Certifications:
+  ✓ Associate
+  ✓ AI Associate
+```
+
+<br/>
+
+![Platform Developer I](https://img.shields.io/badge/-Platform%20Developer%20I-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Platform Developer II](https://img.shields.io/badge/-Platform%20Developer%20II-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![JavaScript Developer I](https://img.shields.io/badge/-JavaScript%20Developer%20I-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![OmniStudio Developer](https://img.shields.io/badge/-OmniStudio%20Developer-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Administrator](https://img.shields.io/badge/-Administrator-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Platform App Builder](https://img.shields.io/badge/-Platform%20App%20Builder-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Associate](https://img.shields.io/badge/-Associate-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![AI Associate](https://img.shields.io/badge/-AI%20Associate-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+
+<br/>
+
+**[🔗 Verify All Credentials on Trailhead](https://www.salesforce.com/trailblazer/jyothiswaroop25)**
+
+</div>
+
 <!--### 🌟 Key Achievements
 
 <div align="center">
