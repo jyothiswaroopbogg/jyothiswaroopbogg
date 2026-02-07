@@ -78,28 +78,24 @@ const jyothiswaroop = {
 <table>
 <tr>
 <td align="center" width="25%">
-<a href="https://www.salesforce.com/trailblazer/jyothiswaroop25">
 <img src="https://img.shields.io/badge/Administrator-FFD700?style=for-the-badge&logo=salesforce&logoColor=000&labelColor=FFD700" alt="Administrator"/>
 </a>
 <br/>
 <sub><b>Administrator</b></sub>
 </td>
 <td align="center" width="25%">
-<a href="https://www.salesforce.com/trailblazer/jyothiswaroop25">
 <img src="https://img.shields.io/badge/Platform%20Developer%20I-FFD700?style=for-the-badge&logo=salesforce&logoColor=000&labelColor=FFD700" alt="Platform Developer I"/>
 </a>
 <br/>
 <sub><b>Platform Developer I</b></sub>
 </td>
 <td align="center" width="25%">
-<a href="https://www.salesforce.com/trailblazer/jyothiswaroop25">
 <img src="https://img.shields.io/badge/Sales%20Cloud%20Consultant-FFD700?style=for-the-badge&logo=salesforce&logoColor=000&labelColor=FFD700" alt="Sales Cloud Consultant"/>
 </a>
 <br/>
 <sub><b>Sales Cloud Consultant</b></sub>
 </td>
 <td align="center" width="25%">
-<a href="https://www.salesforce.com/trailblazer/jyothiswaroop25">
 <img src="https://img.shields.io/badge/Service%20Cloud%20Consultant-FFD700?style=for-the-badge&logo=salesforce&logoColor=000&labelColor=FFD700" alt="Service Cloud Consultant"/>
 </a>
 <br/>
@@ -108,28 +104,24 @@ const jyothiswaroop = {
 </tr>
 <tr>
 <td align="center" width="25%">
-<a href="https://www.salesforce.com/trailblazer/jyothiswaroop25">
 <img src="https://img.shields.io/badge/OmniStudio%20Consultant-FFD700?style=for-the-badge&logo=salesforce&logoColor=000&labelColor=FFD700" alt="OmniStudio Consultant"/>
 </a>
 <br/>
 <sub><b>OmniStudio Consultant</b></sub>
 </td>
 <td align="center" width="25%">
-<a href="https://www.salesforce.com/trailblazer/jyothiswaroop25">
 <img src="https://img.shields.io/badge/OmniStudio%20Developer-FFD700?style=for-the-badge&logo=salesforce&logoColor=000&labelColor=FFD700" alt="OmniStudio Developer"/>
 </a>
 <br/>
 <sub><b>OmniStudio Developer</b></sub>
 </td>
 <td align="center" width="25%">
-<a href="https://www.salesforce.com/trailblazer/jyothiswaroop25">
 <img src="https://img.shields.io/badge/AI%20Associate-FFD700?style=for-the-badge&logo=salesforce&logoColor=000&labelColor=FFD700" alt="AI Associate"/>
 </a>
 <br/>
 <sub><b>AI Associate</b></sub>
 </td>
 <td align="center" width="25%">
-<a href="https://www.salesforce.com/trailblazer/jyothiswaroop25">
 <img src="https://img.shields.io/badge/Associates%20Specialist-FFD700?style=for-the-badge&logo=salesforce&logoColor=000&labelColor=FFD700" alt="Associates Specialist"/>
 </a>
 <br/>
