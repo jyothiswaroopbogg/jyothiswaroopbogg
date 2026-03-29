@@ -18,7 +18,7 @@
 ```typescript
 const jyothiswaroop = {
     role: "Senior Salesforce Omnistudio Developer",
-    experience: "7+ Years",
+    experience: "6+ Years",
     location: "United States 🇺🇸",
     education: {
         masters_current: "Masters in Data Science @ Indiana Wesleyan University",
