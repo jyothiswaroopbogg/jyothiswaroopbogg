@@ -38,7 +38,7 @@ const jyothiswaroop = {
 <td width="50%">
 
 #### 🏆 Experience
-- **7+ Years** in IT Industry
+- **6+ Years** in IT Industry
 - **4 Years** Salesforce Specialist
 - **3 Years** Software Engineer
 - **8x** Salesforce Certified
